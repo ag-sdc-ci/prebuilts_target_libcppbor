@@ -1,0 +1,23 @@
+{
+	"provideLibs": [	
+		    "libcppbor-x86_64-v2.so",
+		    "libcppbor.so",
+		    "libdummy_binary_libcppbor-external-x86_64-v2.so.so",
+		    "libdummy_binary_libcppbor-external.a-x86_64-v2.so",
+		    "libdummy_binary_libcppbor-external.a.so",
+		    "libdummy_binary_libcppbor-external.so.so",
+		    "libdummy_ext_libcppbor-x86_64-v2.so",
+		    "libdummy_ext_libcppbor.so",
+		    "libdummy_headers_ext_libcppbor-x86_64-v2.so",
+		    "libdummy_headers_ext_libcppbor.so"
+	],
+	"requireLibs": [	
+		    "libbase.so",
+		    "libc++_shared.so",
+		    "libc.so",
+		    "libcrypto.so",
+		    "libdl.so",
+		    "libm.so"
+	],
+	"visible": true
+}
